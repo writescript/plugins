@@ -1,0 +1,2 @@
+# plugins
+writescript core plugins
